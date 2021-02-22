@@ -12,6 +12,8 @@ Thanks for checking out this front-end coding challenge.
 
 Your challenge is to build out this profile card component and get it looking as close to the design as possible.
 
+[Live Preveiw](https://card-profile-three.vercel.app/) on Vercel
+
 Challenge by [Frontend Mentor](https://www.frontendmentor.io)
 
 Coded by [Abdulateef Al-radaee (LinkedIn)](https://www.linkedin.com/in/abdulateef-al-radaee-8101171a1/)
